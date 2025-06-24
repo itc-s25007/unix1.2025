@@ -9,3 +9,4 @@ fi
 # -n : print line number
 # -H : print the file name
 find "$directory" -type f | xargs grep -nH "$pattern"
+nakamotokokoa55nakamotokaikaanakamotokainakamotonakamotokokoa55
